@@ -61,7 +61,7 @@ The default Ghost version that is used for this starter is `3.x`. If your Ghost 
 }
 ```
 
-**Ghost <=3.0.0**
+**Ghost >=3.0.0**
 ```json
 {
     "apiUrl": "https://gatsby.ghost.io",
@@ -107,4 +107,4 @@ Gatsby `develop` uses the `development` config in `.ghost.json` - while Gatsby `
 
 # Copyright & License
 
-Copyright (c) 2013-2020 Ghost Foundation - Released under the [MIT license](LICENSE).
+Copyright (c) 2013-2021 Ghost Foundation - Released under the [MIT license](LICENSE).
